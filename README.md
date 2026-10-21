@@ -9,3 +9,5 @@ Cambio desde main
 Cambio local
 
 Cambio de un compañero
+
+Otro cambio de compañero
