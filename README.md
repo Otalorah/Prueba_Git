@@ -10,4 +10,6 @@ Cambio local
 
 Cambio de un compañero
 
+Otro cambio de compañero
+
 Mi parte del proyecto
